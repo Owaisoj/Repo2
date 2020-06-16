@@ -2,3 +2,6 @@ git init - To initilaze
 git status
 git add
 git commit -m "...."
+ 
+git remote add orgin https://github.com/Owaisoj/Repo2.git
+git push -u origin master
